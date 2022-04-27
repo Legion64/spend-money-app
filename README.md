@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Spend Bill Gates Money
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+It is a game that you can spend both your own money and bill gates money.
+Please have fun. :)
 
 ## Available Scripts
 
