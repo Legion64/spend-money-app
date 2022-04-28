@@ -4,7 +4,7 @@ It is a game that you can spend both your own money and bill gates money.
 Please have fun. :)
 
 \
-[Demo](https://62699a28fc52661bf7bacb2b--melodious-daffodil-119e7f.netlify.app/)
+[Demo](https://legionary-spend-bill-gates-money.netlify.app/)
 
 ## Available Scripts
 
